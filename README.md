@@ -1,4 +1,3 @@
-# Python
 I showcase Python project I made with Datacamp to deepen my expertise with key libraries such as: 
   - Pandas
   - Matplotlib
